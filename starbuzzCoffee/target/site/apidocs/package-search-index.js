@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.starbuzzcoffee"},{"l":"com.mycompany.starbuzzcoffee.bebidas"},{"l":"com.mycompany.starbuzzcoffee.bebidas.condimentos"}];updateSearchResults();
